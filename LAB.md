@@ -270,7 +270,7 @@ Replace `YOUR_REPOSITORY_URL` with the full HTTPS URL of your empty repository:
 git init -b main
 git add .
 git commit -m "feat: add counter rules and seven tests"
-git remote add origin https://github.com/Alexis-dev410/Flutter-ci
+git remote add origin https://github.com/Alexis-dev410/Flutter-ci2.git
 git push -u origin main
 ```
 
